@@ -4,6 +4,21 @@ All notable changes to this Power BI report are documented here.
 
 ---
 
+## [1.1.0] — 2026-05-31
+
+### Changed
+- Rewrote `README.md` **Business Insights** as 7 named analytical sections, each
+  with a bold lead finding, supporting data point, and 3 strategic implications:
+  - The Mid-Tier Monopoly · The Week 53 Surge · The Gender Revenue Gap ·
+    The Coastal Concentration Risk · The Activation Ceiling ·
+    The Delinquency Signal · The Interest Income Engine
+
+### Added
+- `README.md` **Architecture** section with a CSV → Power BI → Dashboard → Exports data-flow diagram
+- `README.md` **Executive Summary** synthesizing portfolio-level findings and strategic priorities
+
+---
+
 ## [1.0.0] — 2024-12-31
 
 ### Added
