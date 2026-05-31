@@ -1,0 +1,34 @@
+# ── Power BI ──────────────────────────────────────────────────────────────────
+# The .pbix file IS tracked intentionally — do not add it here
+*.pbix.lock
+*.pbix.bak
+~$*.pbix
+
+# ── Credentials & Secrets ─────────────────────────────────────────────────────
+.env
+*.env.*
+secrets.json
+connection_strings.txt
+credentials.*
+*.key
+
+# ── OS Junk ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ── Editor Folders ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Python (if scripts are added later) ───────────────────────────────────────
+__pycache__/
+venv/
+*.pyc
+*.pyo
+
+# ── Logs & Temp ───────────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
