@@ -83,6 +83,15 @@ credit-card-financial-dashboard/
 
 ---
 
+## 📄 Report Previews (PDF)
+
+| Report | View |
+|--------|------|
+| Transaction Report | [Open PDF](./Credit_Card_Transaction_Report.pdf) |
+| Customer Report | [Open PDF](./Credit_Card_Customer_Report.pdf) |
+
+---
+
 ## 📈 Dashboard Insights — Week 53 (31st Dec)
 
 ### Week-over-Week Change
